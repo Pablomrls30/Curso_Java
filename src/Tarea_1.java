@@ -8,6 +8,6 @@ public class Tarea_1 {
 		var libro = consola.nextLine();
 		System.out.println("¿Quién lo escribio?");
 		var autor = consola.nextLine();
-		System.out.println("El libro " + libro + " fue escrito por " + autor);
+		System.out.println("El libro " + libro + " fue escrito por " + autor);	
 	}
 }
