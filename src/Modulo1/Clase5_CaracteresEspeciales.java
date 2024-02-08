@@ -1,3 +1,4 @@
+package Modulo1;
 public class Clase5_CaracteresEspeciales {
 	public static void main(String[] args) {
 		var nombre = "Pablo";

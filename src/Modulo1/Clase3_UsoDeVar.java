@@ -1,3 +1,4 @@
+package Modulo1;
 public class Clase3_UsoDeVar {
 	public static void main(String[] args) {
 		//var - inferencia de tipos en Java
