@@ -1,4 +1,4 @@
-package Modulo1;
+package Tareas;
 
 import java.util.Scanner;
 
