@@ -24,13 +24,13 @@ public class Clase3_OperadoresUnarios {
 		System.out.println("g = " + g);
 		System.out.println("h = " + h);
 		
-		//Operadores de predecremento y postincremento
+		//Operadores de pre decremento y post decremento
 		var i = 2;
 		var j = --i;
 		System.out.println("i = " + i); //Ya esta decrementada
 		System.out.println("j = " + j);
 		
-		var k = 4; ////Primero se utiliza el valor de la variable y despues se incrementa
+		var k = 4; ////Primero se utiliza el valor de la variable y despues se decrementa
 		var l = k--;
 		System.out.println("k = " + k);
 		System.out.println("l = " + l);
