@@ -1,6 +1,6 @@
 package Modulo3;
 
-public class Clase2_SentenciaIfElse {
+public class Clase2_EjercicioIfElse {
 	public static void main(String[] args) {
 		var numero = 4;
 		var numeroTexto = "Numero desconocido";
